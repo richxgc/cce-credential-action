@@ -20,7 +20,9 @@ export const cceSupportRegions = [
     'ap-southeast-2',
     'ap-southeast-3',
     'ap-southeast-1',
-    'la-north-2'
+    'la-north-2',
+    'la-south-2',
+    'sa-brazil-1'
 ]
 
 export const osSupportPlatforms = ['darwin', 'linux', 'win32']
